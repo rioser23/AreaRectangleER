@@ -3,7 +3,11 @@ package edu.lonestar.erickrios.cosc1337;
 import static org.junit.Assert.*;
 
 import org.junit.Test;
-
+/**
+ * Class used to test the getArea method for proper output
+ * @author erick
+ *
+ */
 public class AreaRectangleAreaTest {
 
 	@Test
